@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JxAxL
 - 👀 I’m interested in ... Artificial Intelligence
-- 🌱 I’m currently learning ... Machine Learning Engineer
+  - 🌱 I’m currently learning ... Data Engineer
 - 💞️ I’m looking to collaborate on ... colaborative, funny and friendship teams
-- 📫 How to reach me ... Twitter.com/jxaxl_
+- 📫 How to reach me ... twitter.com/doge_py
 
 <!---
 JxAxL/JxAxL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
