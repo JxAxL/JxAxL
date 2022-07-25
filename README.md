@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JxAxL
+- 👋 Hi, I’m Alexander (wazaaaaaap xD)
 - 👀 I’m interested in ... Artificial Intelligence
-  - 🌱 I’m currently learning ... Data Engineer
-- 💞️ I’m looking to collaborate on ... colaborative, funny and friendship teams
+- 🌱 I’m currently learning ... Data Engineer
+- 💞️ I’m looking to collaborate on ... funny and friendship teams
 - 📫 How to reach me ... twitter.com/doge_py
 
 <!---
